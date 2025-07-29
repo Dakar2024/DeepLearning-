@@ -1,0 +1,7 @@
+DEEP
+__pycache__
+.vscode
+DEEP
+__pycache__
+*.keras
+venv
