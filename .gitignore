@@ -5,3 +5,4 @@ DEEP
 __pycache__
 *.keras
 venv
+*.keras
